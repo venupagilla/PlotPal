@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1049137750433",
+    "project_id": "plotpal-23082",
+    "storage_bucket": "plotpal-23082.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049137750433:android:765b7f3a4e81e7f0f96be0",
+        "android_client_info": {
+          "package_name": "com.example.plotpal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhsRSxYPd539vJg3InQF38AkGltfkjO-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

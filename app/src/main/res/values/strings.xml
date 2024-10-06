@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PlotPal</string>
+    <string name="login">Login</string>
+    <string name="enter_email_id">Enter your email ID</string>
+    <string name="enter_passsowrd">Enter password</string>
+    <string name="enter">Enter</string>
+</resources>
